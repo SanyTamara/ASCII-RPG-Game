@@ -1,4 +1,4 @@
-# Adventure-Game-Project
+# Adventure - Game Project
 A little Game Project made for a class assigment.
 
 Made for my Data Structure class for college, using C language.
