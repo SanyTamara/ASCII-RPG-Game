@@ -20,6 +20,6 @@ Well, I still got a 8,5/10 for it, so it was all good.
   - Rewind/Redo: for that, my intention was to let the player undo their last action, in case they wasted their energy/actions (each player would have an aloted number of actions/energy per day to use, which he had to spend wisely to become stronger than his adversary) with something while their turn, but I wasn't able to do it. Ex: started a 5hours sword training instead of 2? Undo.
 
 # Afterthoughts
-I may finish, or simply fix/clean the code in the near future, but maybe in a new repository, just so I can keep this one as I delivered and was graded for.
+I may finish, or simply fix/clean the code in the near future, but maybe in a new repository (or should I just do a new branch? I don't know), just so I can keep this one as I delivered and was graded for.
 
 (There may be some english mistakes in this README.md, but bear with me. You can tell me where to fix if you wish, that would help lots.)
