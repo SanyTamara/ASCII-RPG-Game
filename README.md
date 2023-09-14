@@ -5,7 +5,7 @@ Made for my Data Structure class for college, using C language.
 The assigment was to make a game using data structures learned in class (Stacks, Queues, lists, ...), and some other stuff, having a Hangman game as example for the rules we had to follow.
 
 I decided to give myself some trouble and try to make a RPG ASCII game... Which meant I didn't actually finish the game, BUT
-even tough my code is kinda of a mess, and not all of the screens and menus where finished, and there wasn't an actual story and maps, it has a temp map with some events for testing and an automatic battle. It has also difficulty selection, and Player VS Player and Player VS Computer, that doesn't make much of a difference sice therre is no story or game progression, just functions testing.
+even tough my code is kinda of a mess, and not all of the screens and menus where finished, and there wasn't an actual story and maps, it has a temp map with some events for testing and an automatic battle. It has also difficulty selection, and Player VS Player and Player VS Computer, that doesn't make much of a difference since there is no story or game progression, just functions testing.
 
 Well, I still got a 8,5/10 for it, so it was all good.
 
